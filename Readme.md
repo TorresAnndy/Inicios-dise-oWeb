@@ -14,4 +14,4 @@
 Primero, clona este proyecto en tu máquina local utilizando Git. Abre una terminal y ejecuta el siguiente comando:
 
 ```bash
-git clone https://github.com/TorresAnndy/my-project-Spring-Boot.git
+git clone https://github.com/TorresAnndy/Inicios-disenoWeb.git
