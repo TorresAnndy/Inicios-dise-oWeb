@@ -1,0 +1,72 @@
+/*estilos css*/
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 2em;
+    background-color: rgb(5, 160, 160);
+}
+
+button{
+    padding: 10px 20px;
+    background-color: aqua;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    border-color: rgb(255, 179, 86);
+}
+
+header{
+    background-color: aqua;
+    color: white;
+    padding: 1em;
+    text-align: center;
+}
+
+.menu{
+    display: flex;
+    justify-content: center;
+    background-color: #34495e;
+}
+
+.menu a{
+    color: white;
+    padding: 1em;
+    text-decoration: none;
+    display: inline-block;
+}
+
+.menu a:hover{
+    background-color: #1abc9c;
+}
+
+main{
+    padding: 2em;
+}
+
+footer{
+    text-align: center;
+    padding: 1em;
+    background-color: #ecf0f1;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+.volver-inicio{
+    margin-top: 2em;
+    text-align: center;
+}
+
+.boton-volver{
+    background-color: #3498db;
+    color: white;
+    padding: 0.7em;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: background-color 0.3s ease;
+}
+
+.boton-volver:hover{
+    background-color: #2c3e2c;
+}
